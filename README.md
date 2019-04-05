@@ -1,22 +1,8 @@
-A library for Dart developers.
+## Simple OOP With Dart
 
-Created from templates made available by Stagehand under a BSD-style
-[license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
+Simple Object-Oriented-Programming using Dart Language.
+Making a simple app that show "Sky High" Students Name, DOB, Address, and their Superpower.
+This is using a class that save the Student Properties, ordered by list, mapped, and show using print method.
 
-## Usage
-
-A simple usage example:
-
-```dart
-import 'package:simple_oop_with_dart/simple_oop_with_dart.dart';
-
-main() {
-  var awesome = new Awesome();
-}
-```
-
-## Features and bugs
-
-Please file feature requests and bugs at the [issue tracker][tracker].
-
-[tracker]: http://example.com/issues/replaceme
+You can add the student data on the code!
+i'm sorry, it's still hardcoded. I will improve it soon!
